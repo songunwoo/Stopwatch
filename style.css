@@ -1,0 +1,34 @@
+.fontstyle {
+    font-weight: bolder;
+}
+
+.buttonstyleG {
+    background-color: rgb(68, 176, 68);
+    border-color: rgb(68, 176, 68);
+    font-weight: lighter;
+    font-size: 1%;
+    height: 35px;
+    width: 35px;
+    border-radius: 100%;
+}
+
+.buttonstyleR {
+    background-color: rgba(190, 23, 23, 0.738);
+    font-weight: lighter;
+    font-size: 1%;
+    border-color: rgba(190, 23, 23, 0.738);;
+    height: 35px;
+    width: 35px;
+    border-radius: 100%;
+}
+
+.buttonstyleY {
+    background-color: rgb(255, 255, 255);
+    font-weight: lighter;
+    border-color: rgb(255, 255, 255);
+    color: black;
+    font-size: 1%;
+    height: 35px;
+    width: 35px;
+    border-radius: 100%;
+}
